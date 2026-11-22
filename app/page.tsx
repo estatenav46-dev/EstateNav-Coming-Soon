@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 
-const launchTime = new Date('2026-11-21T19:00:00+05:30').getTime();
+const launchTime = new Date('2026-11-28T19:00:00+05:30').getTime();
 
 type Countdown = {
   days: number;
@@ -68,7 +68,7 @@ export default function Home() {
           ))}
         </div>
 
-        <p className="launch-date">21 November 2026 <span /> 7:00 PM IST</p>
+        <p className="launch-date">28 November 2026 <span /> 7:00 PM IST</p>
       </section>
 
       <div className="bottom-glow" aria-hidden="true" />

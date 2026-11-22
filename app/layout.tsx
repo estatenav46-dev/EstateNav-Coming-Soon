@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'EstateNav — Coming Soon',
-  description: 'EstateNav is launching on 21 November 2026 at 7:00 PM IST.',
+  description: 'EstateNav is launching on 28 November 2026 at 7:00 PM IST.',
   icons: {
     icon: '/logo.png',
     apple: '/logo.png',

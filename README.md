@@ -1,6 +1,6 @@
 # EstateNav — Coming Soon
 
-A single-screen launch countdown for EstateNav. The launch time is **21 November 2026 at 7:00 PM IST**.
+A single-screen launch countdown for EstateNav. The launch time is **28 November 2026 at 7:00 PM IST**.
 
 ## Run locally
 
